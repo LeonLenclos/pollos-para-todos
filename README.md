@@ -1,4 +1,6 @@
 ## Pollos Para todos !!!
 
 
-[Lire les règles](source/regles.html)
+- [Comment jouer ?](source/regles.html)
+- [Les règles](source/regles.html)
+- [Téléchargez la version imprimable](imprimable/pollos-para-todos-imprimable.zip)
