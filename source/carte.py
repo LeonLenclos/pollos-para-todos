@@ -15,7 +15,7 @@ import weasyprint
 import os
 
 def couronnes(str):
-    HTML = '<img src="img/couronne.png"/>₵'
+    HTML = '₵'
     return str.replace("$", HTML)
 
 class Carte():
@@ -41,7 +41,6 @@ class Carte():
     def exporter_pdf(self, nom_fichier, css, img_dir):
         """Enregistre la carte sous la forme d'un fichier .pdf"""
         imgs = [os.path.join(img_dir, f) for f in os.listdir(img_dir)]
-        print(imgs)
         html = weasyprint.HTML(string=self.vers_html())
         pdf = html.write_pdf(presentational_hints=True, stylesheets=css, attachments=imgs)
         with open(nom_fichier, 'wb') as fichier:
@@ -151,7 +150,6 @@ class CarteParti(Carte):
             "zone":self.zone,
             "particularite":self.particularite,
         }
-
 
 
 if __name__ == '__main__':

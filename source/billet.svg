@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="70mm"
+   height="40mm"
+   viewBox="0 0 70 40"
+   version="1.1"
+   id="svg1218"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="billet.svg">
+  <defs
+     id="defs1212" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="112.57859"
+     inkscape:cy="71.947784"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="983"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1215">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-257)">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect1763"
+       width="69.795456"
+       height="39.795456"
+       x="0.10227201"
+       y="257.10229" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1765"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-3.5028173,265.55729)"><flowRegion
+         id="flowRegion1767"
+         style="text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle"><rect
+           id="rect1769"
+           width="237.15881"
+           height="130.68089"
+           x="27.02158"
+           y="20.113813"
+           style="text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara1771">500₵</flowPara></flowRoot>    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path1773"
+       cx="35"
+       cy="277"
+       rx="18.833748"
+       ry="9.1118202" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#flowRoot1765"
+       id="use1775"
+       width="100%"
+       height="100%"
+       transform="matrix(0.3,0,0,0.3,53.766013,177.12884)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use1775"
+       id="use1777"
+       width="100%"
+       height="100%"
+       transform="translate(-58.465209,0.06681738)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use1775"
+       id="use1793"
+       width="100%"
+       height="100%"
+       transform="translate(0,33.94323)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use1777"
+       id="use1795"
+       width="100%"
+       height="100%"
+       transform="translate(0,33.94323)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="19.957335"
+       y="289.44965"
+       id="text1799"><tspan
+         sodipodi:role="line"
+         id="tspan1797"
+         x="19.957335"
+         y="289.44965"
+         style="font-size:2.82222223px;stroke-width:0.26458332">cinq cents couronnes</tspan></text>
+  </g>
+</svg>
