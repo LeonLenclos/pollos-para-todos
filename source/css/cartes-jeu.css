@@ -9,6 +9,9 @@
 	
 }
 
+.cout_urgence {
+	margin-top:  2mm;
+}
 .pastille {
 	display: flex;
 	justify-content: flex-end;

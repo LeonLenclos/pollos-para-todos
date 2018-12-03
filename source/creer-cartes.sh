@@ -20,5 +20,6 @@ montage -rotate 90 -density 300 billets/100.png$null{1..20} -geometry +0+0 -tile
 montage -rotate 90 -density 300 billets/50.png$null{1..20} -geometry +0+0 -tile 4x5 ../imprimable/billets-50.pdf
 
 # Faire l'archivage
-rm ../imprimable/*.zip
-zip ../imprimable/pollos-para-todos-imprimable.zip ../imprimable/*
+cd ../imprimable/
+rm *.zip
+zip pollos-para-todos-imprimable.zip *

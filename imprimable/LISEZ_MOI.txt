@@ -1,0 +1,67 @@
+POLLOS PARA TODOS VERSION IMPRIMABLE
+
+Cette archive contient (presque) tout ce qu'il faut pour pouvoir jouer à POLLOS PARA TODOS
+
+
+
+LES CARTES
+==========
+
+fichiers :
+- cartes-jeu.pdf
+- cartes-parti.pdf
+
+Ce sont toutes les cartes necessaires pour jouer. Celles qui doivent être en plusieurs exemplaires sont déjà présentes plusieurs fois sur les planches.
+Imprimez les planches sur du papier A4 puis coupez en suivant les traits de coupe.
+Choisissez de préférence un papier épais de bonne qualité.
+
+
+
+LES BILLETS
+===========
+
+fichiers :
+- billets-100.pdf
+- billets-500.pdf
+- billets-50.pdf
+
+On éstime que vous aurez assez de billets en imprimant ces trois planches en un exemplaire chacune.
+Imprimez les planches sur du papier A4 puis coupez en suivant les traits de coupe.
+Choisissez de préférence un papier de faible qualité.
+
+
+
+LA MAP
+======
+
+fichiers :
+- map-A3.png
+- map-A4-1.png
+- map-A4-2.png
+
+Si vous avez la possibilité d'imprimer en A3, choisissez map-A3.png. Sinon imprimez les deux autres fichiers et assemblez-les.
+Choisissez de préférence un papier épais ou contre-collez la map sur une surface rigide.
+
+
+
+LES RÈGLES
+==========
+
+[EN CONSTRUCTION]
+
+
+
+LES PIONS
+=========
+
+Il vous faudra entre 20 et 30 pions par joueur. Nous vous proposons pas de gabarit à imprimer pour les pions.
+Nous avons l'habitude de découper dans du papier coloré des petits réctangles de 1cm sur 2cm que nous plions en deux pour avoir des petits pions sympas en forme de Λ.
+Vous pouvez aussi acheter des pions en bois ou en plastique dans des boutiques spécialisées (e.g. https://toutpourlejeu.com/).
+
+
+
+LES DÉS
+=======
+
+Bien que ce ne soit pas indispensable, il est conseillé d'avoir un ou plusieurs dés pour les moments ou le hazard intervient. L'idéal est de se procurer un dé à 20 faces.
+Il est aussi possible d'uttiliser une application ou un site web spécialisé (e.g. https://www.random.org/).
