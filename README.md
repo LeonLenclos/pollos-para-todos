@@ -1,3 +1,4 @@
 ## Pollos Para todos !!!
 
-Un jeu
+
+[Lire les règles](source/regles.html)
