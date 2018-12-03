@@ -1,0 +1,43 @@
+@page {
+	size: 42mm 67mm;
+	margin: 0 0 0 0;
+}
+
+.cout{
+	font-size: 11pt;
+	margin-bottom: 2mm;
+	
+}
+
+.pastille {
+	display: flex;
+	justify-content: flex-end;
+	flex-direction: row;
+	margin-bottom: 1mm;
+
+
+}
+.action, .evennement, .unique, .persistante {
+	margin-left: 2mm;
+	width: 5mm;
+	height: 5mm;
+	border: 1pt solid black;
+	border-radius : 2.5mm;
+	background-size: 5mm;
+}
+
+.action {
+	background-image: url("../img/action.png");
+}
+
+.evennement {
+	background-image: url("../img/evennement.png");
+}
+
+.unique {
+	background-image: url("../img/unique.png");
+}
+
+.persistante {
+	background-image: url("../img/persistante.png");
+}

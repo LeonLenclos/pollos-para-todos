@@ -1,0 +1,42 @@
+Superstition,50,0,"Si j'occupe une zone avec fontaine, je jette une pièce dans la fontaine. ",0,0,A
+Tentative d'assassinat,100,0,1 chance sur 2 de supprimer 1 pion adverse dans une zone que j'occupe.,0,0,A
+Campagne de pub,400,0,+3 pions dans les régions adjacentes à une région avec TV que j'occupe.,0,0,A
+4G,100,0,"Pendant l'étape de placement, je peux placer mon pion à une distance de 2 d'une zone que j'occupe.",1,0,A
+Pyromane,200,0,Je déclanche un feu de forêt : un pion par joueur est supprimé dans une zone avec forêt adjacente à une zone que j'occupe.,0,0,A
+Visite d'école,100,0,+1 pion dans une zone que j'occupe.,0,0,A
+Petit sondage maison,400,0,Je gagne autant de pions qu'il en faut pour être à égalité avec le joueur majoritaire d'une zone que j'occupe.,0,1,A
+Atelier Street-Art ,50,0,+1 pion dans une zone que j'occupe avec MJC.,0,0,A
+Pollos para todos,50,0,+1 pion dans une zone adjacente à une zone que j'occupe.,0,0,A
+Prestige de la Statue,0,0,+1 pion dans une zone avec château si la statue s'est animée alors qu'un de mes pions était dans sa zone. ,0,0,A
+Abri antiatomique,100,50,"Si une centrale nucléaire explose dans une zone que j'occupe ou adjacente à une zone que j'occupe, aucun de mes pions n'est supprimé et je défausse cette carte.",1,0,A
+Kamikaze,400,0,Je fais exploser une centrale nucléaire : tous les pions sont supprimés sur une région que j'occupe avec centrale nucléaire et 1 pion au hasard sur chaque zone adjacente.<br>OU<br>Je provoque une éruption volcanique : tous les pions sont supprimés sur une région que j'occupe avec volcan.,0,0,A
+Mr Burns,100,0,"Pendant l'étape des dons, je récolte 100$ supplémentaire pour chaque zone avec centrale nucléaire où je suis majoritaire.",1,0,A
+Piratage informatique,200,0,Je supprime toutes les cartes persistantes d'un adversaire.,0,0,A
+Prestige de la fontaine,0,0,+1 pion dans une zone avec château si j'ai eu une intéraction avec la fontaine pendant la partie.,0,0,A
+Prestige de Pompéi,0,0,+1 pion dans une zone avec château si il y a eu une éruption volcanique pendant la partie qui m'a touché.,0,0,A
+Prestige de la chasse,0,0,+1 pion dans une zone avec château si je supprime 2 pions dans des zones avec forêt.,0,1,A
+Garde forestier,50,100,"Si je devais perdre un pion dans une zone avec forêt, il n'est pas supprimé et je défausse cette carte.",1,0,A
+Déforestation,0,0,-1 pion dans une zone avec forêt que j'occupe : je gagne 200$.,0,0,A
+Jet privé,200,0,Je peux déplacer 1 de mes pions dans une zone de mon choix (sauf zone avec château) en payant 100$. ,1,1,A
+Zebda en tournée,200,0,+1 pion dans chaque zone avec MJC que j'occupe.,0,0,A
+Un ami au sénat,300,0,Je peux avoir en main une carte supplémentaire que le maximum autorisé.,1,1,A
+Toucher le fond,0,0,"Si j'occupe une zone avec fontaine, je ramasse des pièces dans la fontaine : je gagne 150$.",0,0,A
+Rien ne va plus,X,0,J'ai 1 chance sur 2 de gagner X$ par pion que je possède dans une zone avec casino et de récuperer ma mise.,0,0,A
+Charisme,400,0,J'ai la majorité sur toutes les zones où il me manque un pion pour l'avoir.,1,0,A
+Prestige de la chance,0,0,J'ai 1 chance sur 2 de gagner un pion dans une zone avec château.,0,0,A
+Assassinat,200,0,Je supprime 1 pion adverse dans une zone que j'occupe.,0,0,A
+Dossier compromettant,0,0,"Je supprime 1 pion adverse dans une zone que j'occupe, 2 pions si c'est une zone avec TV.",0,0,A
+Coût d'état,1000,0,"Si j'occupe une zone avec château, je gagne la partie.",0,1,A
+L'hymne de nos campagnes,0,0,Je gagne 1 pion par zone que j'occupe si je n'occupe aucune zone avec ville.,0,1,A
+Prestige du prestige,0,0,"Si j'ai eu un prestige pendant la partie, je gagne 1 pion dans une zone avec château.",0,1,A
+Catastrophe nucléaire,0,0,1 chance sur 2 que tous les pions soient supprimés sur les régions avec centrale nucléaire ainsi que 1 pion au hasard sur chaque zone adjacente.,0,1,E
+L'or noir,0,0,Chaque joueur gagne 100$ pour chaque pion qu'il possède dans une zone sans particularité de zone.,0,0,E
+Éruption,0,0,Tous les pions sont supprimés sur une zone avec volcan au hasard.,0,1,E
+La statue se rebiffe,0,0,La statue s'anime : 1 pion au hasard est supprimé sur la zone avec statue.,0,1,E
+La statue est vivante,0,0,La statue s'anime : elle fait coucou!,0,1,E
+La statue est généreuse,0,0,La statue s'anime : tous les joueurs qui occupent une zone avec statue gagnent 150$.,0,1,E
+Exode rural,0,0,Chaque joueur déplace chacun de ses pions qui ne sont pas dans des villes dans une zone adjacente avec ville.,0,1,E
+Épidémie de peste,0,0,Chaque joueur perd 1 pion dans chaque région où il y a plus de 3 pions.,0,1,E
+Baby boom,0,0,Chaque joueur gagne 2 pions dans une zone qu'il occupe.,0,1,E
+Élections!,0,0,C'est le grand jour! On passe directement au décompte.,0,1,E
+Feu de forêt,0,0,Un pion par joueur est supprimé dans chaque zone avec forêt.,0,1,E

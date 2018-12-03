@@ -1,0 +1,33 @@
+html,body{
+	margin: 0;
+	height: 100%;
+}
+
+body {
+
+	padding: 4mm;
+	border: 1px solid black;
+    box-sizing: border-box;
+	font-family: Sans-Serif;
+	font-size: 7pt;
+}
+
+h1 {
+	padding: 0;
+	margin: 0;
+	font-size: 11pt;
+	margin-bottom: 2mm;
+	font-weight: normal;
+}
+
+p {
+	margin: 0;
+	margin-bottom: 1mm;
+	margin-top: 1mm;
+}
+
+img {
+	/*! padding: 2.5mm; */
+	height: 5mm;
+	margin: -1mm;
+}
