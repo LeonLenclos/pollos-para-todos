@@ -16,7 +16,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="map.svg">
+   sodipodi:docname="map.svg"
+   inkscape:export-filename="/home/leon/Projets/POLLOS_PARA_TODOS/pollos-para-todos/imprimable/map-A3.png"
+   inkscape:export-xdpi="299"
+   inkscape:export-ydpi="299">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -27,8 +30,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70559155"
-     inkscape:cx="599.0595"
-     inkscape:cy="371.62041"
+     inkscape:cx="246.87274"
+     inkscape:cy="649.40151"
      inkscape:document-units="mm"
      inkscape:current-layer="g1796"
      showgrid="false"
@@ -49,7 +52,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1553,7 +1556,7 @@
          id="tspan1818"
          x="23.41675"
          y="158.32483"
-         style="font-size:3.02704763px;stroke-width:0.37838095">Chateau</tspan></text>
+         style="font-size:3.02704763px;stroke-width:0.37838095">Château</tspan></text>
     <text
        id="text1824"
        y="167.91069"
@@ -1989,6 +1992,6 @@
          id="tspan1311"
          x="11.381646"
          y="-68.669022"
-         style="font-size:7.06311226px;stroke-width:0.37838095">Pollos para todos !!!</tspan></text>
+         style="font-size:3.89819527px;stroke-width:0.37838095">POLLOS PARA TODOS !!!</tspan></text>
   </g>
 </svg>
