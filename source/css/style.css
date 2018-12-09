@@ -4,9 +4,8 @@ html,body{
 }
 
 body {
-
+	background: white;
 	padding: 4mm;
-	border: 1px solid black;
     box-sizing: border-box;
 	font-family: Sans-Serif;
 	font-size: 7pt;
