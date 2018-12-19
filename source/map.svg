@@ -32,7 +32,7 @@
      inkscape:cx="757.88768"
      inkscape:cy="617.00261"
      inkscape:document-units="mm"
-     inkscape:current-layer="g1363"
+     inkscape:current-layer="layer3"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="983"
@@ -75,8 +75,7 @@
      id="layer3"
      inkscape:label="particularité"
      style="display:inline"
-     transform="translate(0,87)"
-     sodipodi:insensitive="true">
+     transform="translate(0,87)">
     <g
        id="g1052"
        style="stroke-width:0.71428531;stroke-miterlimit:4;stroke-dasharray:none"
@@ -1070,6 +1069,28 @@
          x="332.06845"
          y="188.60202"
          style="font-size:4.54057169px;stroke-width:0.37838095">50₵</tspan></text>
+    <g
+       transform="matrix(1.4301014,0,0,1.4301014,71.964757,-151.7027)"
+       style="stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="g1296">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 142.875,67.125005 h 7.9375 V 63.15625 h -7.9375 z"
+         id="path1290"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 144.19791,63.15625 -1e-5,-2.645833 1.32292,1.322917 1.32292,-1.322917 1.32291,1.322917 1.32292,-1.322917 v 1.322917 l 1e-5,1.322916"
+         id="path1292"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 145.52083,67.125005 v -1.322917 c 0,0 0,-1.322916 1.32292,-1.322916 1.32291,0 1.32291,1.322916 1.32291,1.322916 v 1.322917"
+         id="path1294"
+         inkscape:connector-curvature="0" />
+    </g>
   </g>
   <g
      style="display:inline"
