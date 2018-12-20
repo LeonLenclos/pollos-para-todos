@@ -1,0 +1,34 @@
+html,body{
+	margin: 0;
+	height: 100%;
+
+  column-count: 2;
+
+}
+
+h1, h2, h3, h4{
+margin-top: 6mm;
+margin-bottom: 2mm;
+	font-weight: bold;
+}
+
+h1 {
+		font-size: 16pt;
+}
+h2 {
+		font-size: 12pt;
+		color: white;
+	background: black;
+	padding: 1mm;
+		text-transform: uppercase;
+
+
+}
+h3 {
+		font-size: 10pt;
+}
+
+
+body {
+	font-size: 10pt;
+}
