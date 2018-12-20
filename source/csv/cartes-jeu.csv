@@ -19,7 +19,7 @@ Garde forestier,50,100,"Si je devais perdre un pion dans une zone avec forêt, i
 Déforestation,0,0,-1 pion dans une zone avec forêt que j'occupe : je gagne 200$.,0,0,A
 Jet privé,200,0,Je peux déplacer 1 de mes pions dans une zone de mon choix (sauf zone avec château) en payant 100$. ,1,1,A
 Zebda en tournée,200,0,+1 pion dans chaque zone avec MJC que j'occupe.,0,0,A
-Un ami au sénat,300,0,Je peux avoir en main une carte supplémentaire que le maximum autorisé.,1,1,A
+Un ami au sénat,300,0,Je peux avoir en main une carte de plus que le maximum autorisé.,1,1,A
 Toucher le fond,0,0,"Si j'occupe une zone avec fontaine, je ramasse des pièces dans la fontaine : je gagne 150$.",0,0,A
 Rien ne va plus,X,0,J'ai 1 chance sur 2 de gagner X$ par pion que je possède dans une zone avec casino et de récuperer ma mise.,0,0,A
 Charisme,400,0,J'ai la majorité sur toutes les zones où il me manque un pion pour l'avoir.,1,0,A
