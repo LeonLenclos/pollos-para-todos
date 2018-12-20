@@ -28,7 +28,7 @@ Assassinat,200,0,Je supprime 1 pion adverse dans une zone que j'occupe.,0,0,A
 Dossier compromettant,0,0,"Je supprime 1 pion adverse dans une zone que j'occupe, 2 pions si c'est une zone avec TV.",0,0,A
 Coût d'état,1000,0,"Si j'occupe une zone avec château, je gagne la partie.",0,1,A
 L'hymne de nos campagnes,0,0,Je gagne 1 pion par zone que j'occupe si je n'occupe aucune zone avec ville.,0,1,A
-Prestige du prestige,0,0,"Si j'ai eu un prestige pendant la partie, je gagne 1 pion dans une zone avec château.",0,1,A
+Prestige du prestige,0,0,"Si j'ai joué un carte prestige pendant la partie, je gagne 1 pion dans une zone avec château.",0,1,A
 J'invoque l'esprit de la statue,0,0,"La statue s'anime, je peux choisir entre :<br>1 pion au hasard est supprimé sur la zone avec statue.<br>OU<br>La statue fait coucou !<br>OU<br>Tous les joueurs qui occupent une zone avec statue gagnent 150$.",0,0,A
 Catastrophe nucléaire,0,0,1 chance sur 2 que tous les pions soient supprimés sur les régions avec centrale nucléaire ainsi que 1 pion au hasard sur chaque zone adjacente.,0,1,E
 L'or noir,0,0,Chaque joueur gagne 100$ pour chaque pion qu'il possède dans une zone sans particularité de zone.,0,0,E
