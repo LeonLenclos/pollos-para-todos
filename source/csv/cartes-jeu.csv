@@ -10,7 +10,7 @@ Pollos para todos,50,0,+1 pion dans une zone adjacente à une zone que j'occupe.
 Prestige de la Statue,0,0,+1 pion dans une zone avec château si la statue s'est animée alors qu'un de mes pions était dans sa zone. ,0,0,A
 Abri antiatomique,100,50,"Si une centrale nucléaire explose dans une zone que j'occupe ou adjacente à une zone que j'occupe, aucun de mes pions n'est supprimé et je me défausse de cette carte.",1,0,A
 Kamikaze,400,0,Je fais exploser une centrale nucléaire : tous les pions sont supprimés sur une région que j'occupe avec centrale nucléaire et 1 pion au hasard sur chaque zone adjacente.<br>OU<br>Je provoque une éruption volcanique : tous les pions sont supprimés sur une région que j'occupe avec volcan.,0,0,A
-Mr Burns,100,0,"Pendant l'étape des dons, je récolte 100$ supplémentaire pour chaque zone avec centrale nucléaire où je suis majoritaire.",1,0,A
+Mr. Burns,100,0,"Pendant l'étape des dons, je récolte 100$ supplémentaire pour chaque zone avec centrale nucléaire où je suis majoritaire.",1,0,A
 Piratage informatique,200,0,Je supprime toutes les cartes persistantes d'un adversaire.,0,0,A
 Prestige de la fontaine,0,0,+1 pion dans une zone avec château si j'ai eu une intéraction avec la fontaine pendant la partie.,0,0,A
 Prestige de Pompéi,0,0,+1 pion dans une zone avec château si il y a eu une éruption volcanique pendant la partie qui m'a touché.,0,0,A
