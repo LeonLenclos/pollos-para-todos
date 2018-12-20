@@ -172,6 +172,8 @@ if __name__ == '__main__':
                     nom_fichier="cartes-jeu-pdf/{}-{}.pdf".format(i,j),
                     css=["css/style.css", "css/cartes-jeu.css"],
                     img_dir="img")
+                carte.exporter_html(
+                    nom_fichier="cartes-jeu-pdf/{}-{}.html".format(i,j))
 
     with open('csv/cartes-parti.csv', 'r') as csvfile:
         reader = csv.reader(csvfile)

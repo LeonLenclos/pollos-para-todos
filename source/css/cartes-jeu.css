@@ -14,19 +14,25 @@
 }
 .pastille {
 	display: flex;
-	justify-content: flex-end;
+	justify-content: flex-start;
 	flex-direction: row;
 	margin-bottom: 1mm;
 
 
 }
+
 .action, .evennement, .unique, .persistante {
-	margin-left: 2mm;
+	margin-right: 2mm;
 	width: 5mm;
 	height: 5mm;
 	border: 1pt solid black;
 	border-radius : 2.5mm;
 	background-size: 5mm;
+}
+
+.action, .evennement{
+	margin-left:  auto;
+	margin-right: 0;
 }
 
 .action {
