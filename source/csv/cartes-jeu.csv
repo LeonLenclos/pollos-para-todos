@@ -29,13 +29,16 @@ Dossier compromettant,0,0,"Je supprime 1 pion adverse dans une zone que j'occupe
 Coût d'état,1000,0,"Si j'occupe une zone avec château, je gagne la partie.",0,1,A
 L'hymne de nos campagnes,0,0,Je gagne 1 pion par zone que j'occupe si je n'occupe aucune zone avec ville.,0,1,A
 Prestige du prestige,0,0,"Si j'ai eu un prestige pendant la partie, je gagne 1 pion dans une zone avec château.",0,1,A
+J'invoque l'esprit de la statue,0,0,"La statue s'anime, je peux choisir entre :<br>1 pion au hasard est supprimé sur la zone avec statue.<br>OU<br>La statue fait coucou !<br>OU<br>Tous les joueurs qui occupent une zone avec statue gagnent 150$.",0,0,A
 Catastrophe nucléaire,0,0,1 chance sur 2 que tous les pions soient supprimés sur les régions avec centrale nucléaire ainsi que 1 pion au hasard sur chaque zone adjacente.,0,1,E
 L'or noir,0,0,Chaque joueur gagne 100$ pour chaque pion qu'il possède dans une zone sans particularité de zone.,0,0,E
 Éruption,0,0,Tous les pions sont supprimés sur une zone avec volcan au hasard.,0,1,E
-La statue se rebiffe,0,0,La statue s'anime : 1 pion au hasard est supprimé sur la zone avec statue.,0,1,E
-La statue est vivante,0,0,La statue s'anime : elle fait coucou!,0,1,E
-La statue est généreuse,0,0,La statue s'anime : tous les joueurs qui occupent une zone avec statue gagnent 150$.,0,1,E
 Exode rural,0,0,Chaque joueur déplace chacun de ses pions qui ne sont pas dans des villes dans une zone adjacente avec ville.,0,1,E
 Épidémie de peste,0,0,Chaque joueur perd 1 pion dans chaque région où il y a plus de 3 pions.,0,1,E
 Baby boom,0,0,Chaque joueur gagne 2 pions dans une zone qu'il occupe.,0,1,E
 Feu de forêt,0,0,Un pion par joueur est supprimé dans chaque zone avec forêt.,0,1,E
+Plan Vigipirate,0,0,Chaque joueur déplace chacun de ses pions qui sont sur des zones avec centrale nucléaire ou volcan dans une zone adjacente sans centrale nucléaire ni volcan.,0,1,E
+Grand débat télévisé,0,0,Chaque joueur défausse autant de carte qu'il veut et en pioche autant qu'il le faut pour en avoir le maximum autorisé.,0,1,E
+Carnaval,0,0,"Les $ de tous les joueurs sont mises en comun, et redistribuées équitablement entre les joueurs. S'il n'est pas possible d'être équitable, on ajoute juste ce qu'il faut pour pouvoir l'être.",0,1,E
+Manifestations,0,0,Chaque joueur perd un pion dans chaque zone avec ville ou il est majoritaire.,0,1,E
+Journées du patrimoine,0,0,"+1 pion par joueur dans chaque zone avec statue, fontaine, forêt, ou volcan qu'il occupe.",0,1,E
