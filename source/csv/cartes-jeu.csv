@@ -15,7 +15,7 @@ Piratage informatique,200,0,Je supprime toutes les cartes persistantes d'un adve
 Prestige de la fontaine,0,0,+1 pion dans une zone avec château si j'ai eu une intéraction avec la fontaine pendant la partie.,0,0,A
 Prestige de Pompéi,0,0,+1 pion dans une zone avec château si il y a eu une éruption volcanique pendant la partie qui m'a touché.,0,0,A
 Prestige de la chasse,0,0,+1 pion dans une zone avec château si je supprime 2 pions dans des zones avec forêt.,0,1,A
-Garde forestier,50,100,"Si je devais perdre un pion dans une zone avec forêt, il n'est pas supprimé et je défausse cette carte.",1,0,A
+Garde forestier,50,100,"Si je devais perdre un pion dans une zone avec forêt, il n'est pas supprimé et je me défausse de cette carte.",1,0,A
 Déforestation,0,0,-1 pion dans une zone avec forêt que j'occupe : je gagne 200$.,0,0,A
 Jet privé,200,0,Je peux déplacer 1 de mes pions dans une zone de mon choix (sauf zone avec château) en payant 100$. ,1,1,A
 Zebda en tournée,200,0,+1 pion dans chaque zone avec MJC que j'occupe.,0,0,A
