@@ -1,34 +1,74 @@
-html,body{
-	margin: 0;
-	height: 100%;
 
+
+body {
+	margin: 3mm;
+	 width : 210mm;
+	  height: auto;
+	font-size: 8pt;
   column-count: 2;
+	column-gap: 12mm;
+	
 
 }
-
 h1, h2, h3, h4{
 margin-top: 6mm;
-margin-bottom: 2mm;
+margin-bottom: 3mm;
 	font-weight: bold;
 }
 
 h1 {
-		font-size: 16pt;
+		font-size: 13pt;
 }
 h2 {
-		font-size: 12pt;
+		font-size: 10pt;
 		color: white;
 	background: black;
+	
 	padding: 1mm;
 		text-transform: uppercase;
 
 
 }
 h3 {
+		text-transform: uppercase;
+
 		font-size: 10pt;
 }
 
 
-body {
-	font-size: 10pt;
+.exemple {
+	border-left : 1mm solid black;
+	padding-left: 2mm;
 }
+.important {
+	margin: -5mm;
+	padding: 2mm;
+	font-size: 10pt;
+  border: solid 3mm;
+	border-radius: 20px;
+	margin-top: 6mm;
+}
+
+.important :first-child{
+	margin-top: 0;
+}
+
+.important h2 {
+		font-size: 12pt;
+	
+}
+p {
+	margin-bottom: 3mm;
+}
+ol, ul {
+	padding-left: 6mm;
+}
+
+  dt {
+		margin-right: 2mm;
+		text-transform: uppercase;
+}
+  dd {
+    margin: 0;
+    padding: 0 0 0.5em 0;
+  }
