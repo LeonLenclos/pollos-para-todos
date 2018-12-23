@@ -10,7 +10,7 @@ body {
 	
 
 }
-h1, h2, h3, h4{
+h1, h2, h3{
 margin-top: 6mm;
 margin-bottom: 3mm;
 	font-weight: bold;
@@ -35,6 +35,9 @@ h3 {
 		font-size: 10pt;
 }
 
+h4 {
+	margin:0
+}
 
 .exemple {
 	border-left : 1mm solid black;
@@ -47,6 +50,7 @@ h3 {
   border: solid 3mm;
 	border-radius: 20px;
 	margin-top: 6mm;
+	margin-bottom: 6mm;
 }
 
 .important :first-child{
